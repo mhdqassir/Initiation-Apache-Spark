@@ -1,3 +1,4 @@
+﻿Modification MKASSIR
 # Partie 4 : Spark Streaming
 
 ![](rdd6.png)
